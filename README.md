@@ -8,6 +8,7 @@
 ## 🚀 Featured Projects
 
 ### 🎥 Video Retrieval System
+[https://github.com/1fHu/drone-detection]
 - YOLO-based detection pipeline
 - Parquet indexing (HuggingFace)
 - Query by object + timestamp
