@@ -1,7 +1,7 @@
 # Hi, I'm Yifei Hu 👋
 
 🎓 Computer Engineering @ NYU  
-🔬 AI + Systems
+🔬 AI + Systems  
 💻 Interested in AI Inference & AI Infrastructure  
 ---
 
