@@ -1,11 +1,17 @@
 # Hi, I'm Yifei Hu 👋
 
-🎓 Computer Engineering @ NYU  
-🔬 AI + Systems  
-💻 Interested in AI Inference & AI Infrastructure  
+🎓 Computer Engineering @ NYU
+💻 Full-stack Engineer
+🔬 Interested in AI Agent
 ---
 
 ## 🚀 Featured Projects
+
+### TikTok Shop Video Generation
+[https://github.com/1fHu/aigc-shop-reel]
+- Automatically generates video from product photo
+- Merchants can easily edit by prompt by shots
+- Gene Bank extracts details from popular video that can be used in generating your video.
 
 ### 🎥 Video Translation
 [https://github.com/1fHu/foreign-whispers-ai]
@@ -14,7 +20,6 @@
 - Argostranslate & pyannote diarization
 - Chatterbox TTS with Coqui XTTS fallback
 - FastAPI + Next.js
-
 
 ### 🛸 Drone Detection in Video
 [https://github.com/1fHu/drone-detection]
@@ -35,10 +40,6 @@
 - ~90% accuracy
 - Presented in SLAS 2026 (Academic Conference)
 
-### ⚙️ RISC Processor Design
-- Verilog + Verilator
-- ALU / Control Unit / Register File
-- C++ testbench
 ---
 
 ## 🧠 Skills
