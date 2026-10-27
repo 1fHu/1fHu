@@ -1,9 +1,12 @@
 # Hi, I'm Yifei Hu 👋
 
 🎓 Computer Engineering @ NYU
+
 💻 Full-stack Engineer
+
 🔬 Interested in AI Agent
----
+
+
 
 ## 🚀 Featured Projects
 
@@ -40,7 +43,6 @@
 - ~90% accuracy
 - Presented in SLAS 2026 (Academic Conference)
 
----
 
 ## 🧠 Skills
 
